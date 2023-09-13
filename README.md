@@ -24,7 +24,7 @@ Download the contents into a folder that is easy to access. Or clone repository 
 
 > LiDAR lecture in Remote Sensing and GIS for Ecology course at UNPESP. 2021. (4 hours)
 
-> LiDAR short course at WorCAP 2023. 2023. (1h30 hours). <https://www.gov.br/inpe/pt-br/eventos/worcap/2023>. \<[ppt link](https://github.com/ricds/lidar_class/blob/main/WORCAP2023_Introduction_Lidar.pptx)\>.
+> LiDAR short course at WorCAP 2023. 2023. (1h30 hours). <https://www.gov.br/inpe/pt-br/eventos/worcap/2023>. \<[ppt link](https://github.com/ricds/lidar_class/raw/main/WORCAP2023_Introduction_Lidar.pptx)\>.
 
 ## *Contact*
 
