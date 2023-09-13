@@ -16,6 +16,23 @@ Download the contents into a folder that is easy to access. Or clone repository 
 
 -   **Decks used in classes in ppt format**
 
+## Pre-requisites
+
+-   [R](https://cran.r-project.org/)
+
+-   [RStudio](https://posit.co/products/open-source/rstudio/)
+
+-   *lidR R package*, but also a few others.\
+    Run these lines of code inside R to install required packages:
+
+    ``` r
+    neededPackages = c("lidR", "sp", "raster", "rgdal", "rgl", "mapview", "gstat")
+    pkgTest = function(x) { if (x %in% rownames(installed.packages()) == FALSE) { install.packages(x, dependencies= TRUE) }; library(x, character.only = TRUE) }
+    for (package in neededPackages) { pkgTest(package) }
+    ```
+
+## Courses
+
 *This material was used at :*
 
 > LiDAR lecture in Forest course of Remote Sensing graduate program at INPE. {2020, 2021, 2022}. (3 hours)
