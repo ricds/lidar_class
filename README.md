@@ -31,7 +31,7 @@ Download the contents into a folder that is easy to access. Or clone repository 
     for (package in neededPackages) { pkgTest(package) }
     ```
 
-## Courses
+## Classes
 
 *This material was used at :*
 
